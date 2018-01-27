@@ -8,3 +8,5 @@ lauri.kyttala@gmail.com
 # still one more line
 
 # This is a local change ready to commit and push
+
+# Another minor change to demonstrate git push origin master - command

@@ -6,3 +6,5 @@ Lauri Kyttälä
 lauri.kyttala@gmail.com
 # This line has been addede to demonstrate git pull command 
 # still one more line
+
+# This is a local change ready to commit and push
